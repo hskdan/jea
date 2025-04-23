@@ -38,12 +38,12 @@ export default function Home() {
               transition={{ duration: 0.6 }}
             >
               <div className="space-y-4">
-                <p className="text-2xl text-gray-600">안녕하세요</p>
+                <p className="text-3xl text-gray-600">안녕하세요,</p>
                 <div className="flex flex-col">
-                  <span className="text-[60px] font-extrabold bg-gradient-to-r from-blue-600 to-blue-400 bg-clip-text text-transparent">
+                  <span className="text-[45px] font-extrabold bg-gradient-to-r from-blue-600 to-blue-400 bg-clip-text text-transparent">
                     보험 설계사 배지윤
                   </span>
-                  <span className="text-2xl text-gray-500 mt-2">입니다</span>
+                  <span className="text-3xl text-gray-500 mt-2">입니다.</span>
                 </div>
               </div>
             </motion.h1>
