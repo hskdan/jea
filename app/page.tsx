@@ -38,7 +38,7 @@ export default function Home() {
               transition={{ duration: 0.6 }}
             >
               안녕하세요,<br /><br />
-              <span className="text-blue-600">보험 설계사 배지윤</span><br />
+              <span className="text-blue-600 text-[60px]">보험 설계사 배지윤</span><br />
               입니다
             </motion.h1>
             <motion.p 
