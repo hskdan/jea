@@ -1,0 +1,22 @@
+[25-04-24  0:26:08.40] --------whoami-------- 
+my-life\user
+[25-04-24  0:26:08.44] --------whoami-------- 
+[25-04-24  0:26:08.45] Waiting for Runner.Listener.exe (54008) to complete 
+Runner.Listener.exe          54008 Console                    3     84,308 K
+[25-04-24  0:26:08.64] Process 54008 still running, check again after 1 second. 
+Runner.Listener.exe          54008 Console                    3     87,704 K
+[25-04-24  0:26:09.82] Process 54008 still running, check again after 1 second. 
+[25-04-24  0:26:11.04] Process 54008 finished running 
+[25-04-24  0:26:11.05] Sleep 1 more second to make sure process exited 
+[25-04-24  0:26:12.07] Re-organize folders 
+[25-04-24  0:26:12.12] move "C:\Users\user\cursor\project\portfolio\actions-runner\bin" "C:\Users\user\cursor\project\portfolio\actions-runner\bin.2.311.0" 
+        1개의 디렉터리를 이동했습니다.
+[25-04-24  0:26:12.18] move "C:\Users\user\cursor\project\portfolio\actions-runner\externals" "C:\Users\user\cursor\project\portfolio\actions-runner\externals.2.311.0" 
+        1개의 디렉터리를 이동했습니다.
+[25-04-24  0:26:12.19] Create junction bin folder 
+C:\Users\user\cursor\project\portfolio\actions-runner\bin <<===>> C:\Users\user\cursor\project\portfolio\actions-runner\bin.2.323.0에 대한 교차점을 만들었습니다.
+[25-04-24  0:26:12.19] Create junction externals folder 
+C:\Users\user\cursor\project\portfolio\actions-runner\externals <<===>> C:\Users\user\cursor\project\portfolio\actions-runner\externals.2.323.0에 대한 교차점을 만들었습니다.
+[25-04-24  0:26:12.20] Update succeed 
+[25-04-24  0:26:12.20] update.finished file creation succeed 
+[25-04-24  0:26:12.20] Rename "C:\Users\user\cursor\project\portfolio\actions-runner\_diag\SelfUpdate-20250423-152608.log" to be "C:\Users\user\cursor\project\portfolio\actions-runner\_diag\SelfUpdate-20250423-152608.log.succeed" 

@@ -1,0 +1,278 @@
+[2025-04-23 15:25:58Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2025-04-23 15:25:58Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:25:58Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:25:58Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\user\cursor\project\portfolio\actions-runner\.credentials'
+[2025-04-23 15:25:58Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:25:58Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:25:58Z INFO HostContext] Well known config file 'Runner': 'C:\Users\user\cursor\project\portfolio\actions-runner\.runner'
+[2025-04-23 15:25:58Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2025-04-23 15:25:58Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.26100.
+[2025-04-23 15:25:58Z INFO Listener] Version: 2.311.0
+[2025-04-23 15:25:58Z INFO Listener] Commit: f5cff308c83746dddd726a9a28a1583872305aaa
+[2025-04-23 15:25:58Z INFO Listener] Culture: ko-KR
+[2025-04-23 15:25:58Z INFO Listener] UI Culture: ko-KR
+[2025-04-23 15:25:58Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:25:58Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:25:58Z INFO Listener] Validating directory permissions for: 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:25:58Z INFO CommandLineParser] Parse
+[2025-04-23 15:25:58Z INFO CommandLineParser] Parsing 1 args
+[2025-04-23 15:25:58Z INFO CommandLineParser] parsing argument
+[2025-04-23 15:25:58Z INFO CommandLineParser] HasArgs: False
+[2025-04-23 15:25:58Z INFO CommandLineParser] Adding Command: run
+[2025-04-23 15:25:58Z INFO Listener] Arguments parsed
+[2025-04-23 15:25:58Z INFO Runner] ExecuteCommand
+[2025-04-23 15:25:58Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\user\cursor\project\portfolio\actions-runner\bin\Runner.Listener.dll
+[2025-04-23 15:25:58Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:25:58Z INFO ConfigurationStore] binPath: C:\Users\user\cursor\project\portfolio\actions-runner\bin
+[2025-04-23 15:25:58Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:25:58Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:25:58Z INFO ConfigurationStore] RootFolder: C:\Users\user\cursor\project\portfolio\actions-runner
+[2025-04-23 15:25:58Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:25:58Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:25:58Z INFO HostContext] Well known config file 'Runner': 'C:\Users\user\cursor\project\portfolio\actions-runner\.runner'
+[2025-04-23 15:25:58Z INFO ConfigurationStore] ConfigFilePath: C:\Users\user\cursor\project\portfolio\actions-runner\.runner
+[2025-04-23 15:25:58Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:25:58Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:25:58Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\user\cursor\project\portfolio\actions-runner\.credentials'
+[2025-04-23 15:25:58Z INFO ConfigurationStore] CredFilePath: C:\Users\user\cursor\project\portfolio\actions-runner\.credentials
+[2025-04-23 15:25:58Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:25:58Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:25:58Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\user\cursor\project\portfolio\actions-runner\.credentials_migrated'
+[2025-04-23 15:25:58Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\user\cursor\project\portfolio\actions-runner\.credentials_migrated
+[2025-04-23 15:25:58Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:25:58Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:25:58Z INFO HostContext] Well known config file 'Service': 'C:\Users\user\cursor\project\portfolio\actions-runner\.service'
+[2025-04-23 15:25:58Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\user\cursor\project\portfolio\actions-runner\.service
+[2025-04-23 15:25:58Z INFO CommandSettings] Flag 'help': 'False'
+[2025-04-23 15:25:58Z INFO CommandSettings] Flag 'version': 'False'
+[2025-04-23 15:25:58Z INFO CommandSettings] Flag 'commit': 'False'
+[2025-04-23 15:25:58Z INFO CommandSettings] Flag 'check': 'False'
+[2025-04-23 15:25:59Z INFO CommandSettings] Command 'configure': 'False'
+[2025-04-23 15:25:59Z INFO CommandSettings] Command 'remove': 'False'
+[2025-04-23 15:25:59Z INFO CommandSettings] Command 'warmup': 'False'
+[2025-04-23 15:25:59Z INFO ConfigurationManager] LoadSettings
+[2025-04-23 15:25:59Z INFO ConfigurationStore] IsConfigured()
+[2025-04-23 15:25:59Z INFO ConfigurationStore] IsConfigured: True
+[2025-04-23 15:25:59Z INFO ConfigurationManager] Is configured: True
+[2025-04-23 15:25:59Z INFO ConfigurationStore] Read setting file: 299 chars
+[2025-04-23 15:25:59Z INFO ConfigurationManager] Settings Loaded
+[2025-04-23 15:25:59Z INFO ConfigurationStore] IsServiceConfigured()
+[2025-04-23 15:25:59Z INFO ConfigurationStore] IsServiceConfigured: False
+[2025-04-23 15:25:59Z INFO CommandSettings] Command 'run': 'True'
+[2025-04-23 15:25:59Z INFO ConfigurationStore] IsConfigured()
+[2025-04-23 15:25:59Z INFO ConfigurationStore] IsConfigured: True
+[2025-04-23 15:25:59Z INFO ConfigurationManager] Is configured: True
+[2025-04-23 15:25:59Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2025-04-23 15:25:59Z INFO Runner] Set runner startup type - Manual
+[2025-04-23 15:25:59Z INFO CommandSettings] Flag 'once': 'False'
+[2025-04-23 15:25:59Z INFO CommandSettings] Flag 'once': 'False'
+[2025-04-23 15:25:59Z INFO Runner] RunAsync
+[2025-04-23 15:25:59Z INFO ConfigurationManager] LoadSettings
+[2025-04-23 15:25:59Z INFO ConfigurationStore] IsConfigured()
+[2025-04-23 15:25:59Z INFO ConfigurationStore] IsConfigured: True
+[2025-04-23 15:25:59Z INFO ConfigurationManager] Is configured: True
+[2025-04-23 15:25:59Z INFO ConfigurationManager] Settings Loaded
+[2025-04-23 15:25:59Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "windows-runner",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus23.actions.githubusercontent.com/rUTrIAf8GJn0BbwN01OEWlGhHRbahdFynYwXgbAUbvM0Fnt9gK/",
+  "GitHubUrl": "https://github.com/hskdan/jea",
+  "WorkFolder": "_work"
+}
+[2025-04-23 15:25:59Z INFO MessageListener] Loading Credentials
+[2025-04-23 15:25:59Z INFO ConfigurationStore] HasCredentials()
+[2025-04-23 15:25:59Z INFO ConfigurationStore] stored True
+[2025-04-23 15:25:59Z INFO CredentialManager] GetCredentialProvider
+[2025-04-23 15:25:59Z INFO CredentialManager] Creating type OAuth
+[2025-04-23 15:25:59Z INFO CredentialManager] Creating credential type: OAuth
+[2025-04-23 15:25:59Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:25:59Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:25:59Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\user\cursor\project\portfolio\actions-runner\.credentials_rsaparams'
+[2025-04-23 15:25:59Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\cursor\project\portfolio\actions-runner\.credentials_rsaparams
+[2025-04-23 15:25:59Z INFO MessageListener] Attempt to create session.
+[2025-04-23 15:25:59Z INFO MessageListener] Connecting to the Runner Server...
+[2025-04-23 15:25:59Z INFO RunnerServer] EstablishVssConnection
+[2025-04-23 15:25:59Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-04-23 15:25:59Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-23 15:25:59Z INFO RunnerServer] EstablishVssConnection
+[2025-04-23 15:25:59Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-04-23 15:25:59Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-23 15:25:59Z INFO RunnerServer] EstablishVssConnection
+[2025-04-23 15:25:59Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-04-23 15:25:59Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-23 15:25:59Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-23 15:25:59Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-23 15:25:59Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-23 15:26:00Z INFO MessageListener] VssConnection created
+[2025-04-23 15:26:00Z INFO Terminal] WRITE LINE: 
+[2025-04-23 15:26:00Z INFO Terminal] WRITE LINE: 
+[2025-04-23 15:26:00Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\cursor\project\portfolio\actions-runner\.credentials_rsaparams
+[2025-04-23 15:26:00Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\cursor\project\portfolio\actions-runner\.credentials_rsaparams
+[2025-04-23 15:26:00Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-04-23 15:26:00Z INFO MessageListener] Session created.
+[2025-04-23 15:26:00Z INFO Terminal] WRITE LINE: Current runner version: '2.311.0'
+[2025-04-23 15:26:00Z INFO Terminal] WRITE LINE: 2025-04-23 15:26:00Z: Listening for Jobs
+[2025-04-23 15:26:00Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2025-04-23 15:26:02Z INFO MessageListener] Message '1' received from session '9646e980-c842-4933-b16c-a6c3e5c77095'.
+[2025-04-23 15:26:02Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:26:02Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:26:02Z INFO HostContext] Well known directory 'Work': 'C:\Users\user\cursor\project\portfolio\actions-runner\_work'
+[2025-04-23 15:26:02Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:26:02Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:26:02Z INFO HostContext] Well known directory 'Work': 'C:\Users\user\cursor\project\portfolio\actions-runner\_work'
+[2025-04-23 15:26:02Z INFO SelfUpdater] Cloning dotnet runtime to C:\Users\user\cursor\project\portfolio\actions-runner\_work\__dotnet_runtime__
+[2025-04-23 15:26:02Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:26:02Z INFO SelfUpdater] Successfully cloned dotnet runtime to C:\Users\user\cursor\project\portfolio\actions-runner\_work\__dotnet_runtime__. Total files: 222
+[2025-04-23 15:26:02Z INFO SelfUpdater] Cloning externals to C:\Users\user\cursor\project\portfolio\actions-runner\_work\__externals__
+[2025-04-23 15:26:02Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:26:02Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:26:02Z INFO HostContext] Well known directory 'Externals': 'C:\Users\user\cursor\project\portfolio\actions-runner\externals'
+[2025-04-23 15:26:02Z INFO SelfUpdater] Successfully cloned externals to C:\Users\user\cursor\project\portfolio\actions-runner\_work\__externals__.
+[2025-04-23 15:26:02Z INFO SelfUpdater] Waiting for 2 tasks to complete.
+[2025-04-23 15:26:02Z INFO SelfUpdater] Externals clone finished.
+[2025-04-23 15:26:02Z INFO SelfUpdater] Calculating hash for C:\Users\user\cursor\project\portfolio\actions-runner\_work\__externals__
+[2025-04-23 15:26:02Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:26:02Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:26:02Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:26:02Z INFO HostContext] Well known directory 'Externals': 'C:\Users\user\cursor\project\portfolio\actions-runner\externals'
+[2025-04-23 15:26:02Z INFO ProcessInvokerWrapper] Starting process:
+[2025-04-23 15:26:02Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\user\cursor\project\portfolio\actions-runner\externals\node16\bin\node.exe'
+[2025-04-23 15:26:02Z INFO ProcessInvokerWrapper]   Arguments: '"C:\Users\user\cursor\project\portfolio\actions-runner\bin\hashFiles"'
+[2025-04-23 15:26:02Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\user\cursor\project\portfolio\actions-runner\_work\__externals__'
+[2025-04-23 15:26:02Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-04-23 15:26:02Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-04-23 15:26:02Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-04-23 15:26:02Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-04-23 15:26:02Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-04-23 15:26:02Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-04-23 15:26:02Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2025-04-23 15:26:02Z INFO ProcessInvokerWrapper] Process started with process id 47372, waiting for process exit.
+[2025-04-23 15:26:02Z INFO Runner] Refresh message received, kick-off selfupdate background process.
+[2025-04-23 15:26:02Z INFO SelfUpdater] Version '2.323.0' of 'agent' package available in server.
+[2025-04-23 15:26:02Z INFO SelfUpdater] Current running runner version is 2.311.0
+[2025-04-23 15:26:02Z INFO SelfUpdater] An update is available.
+[2025-04-23 15:26:02Z INFO Terminal] WRITE LINE: Runner update in progress, do not shutdown runner.
+[2025-04-23 15:26:02Z INFO SelfUpdater] CloneDotnetRuntimeTime: 268ms
+[2025-04-23 15:26:02Z INFO SelfUpdater] CloneExternalsTime: 32ms
+[2025-04-23 15:26:02Z INFO SelfUpdater] RunnerPlatform: win-x64
+[2025-04-23 15:26:02Z INFO SelfUpdater] Hash result: '433a6d748742d12abd20dc2a79b62ac3d9718ae47ef26f8e84dc8c180eea3659'
+[2025-04-23 15:26:02Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-04-23 15:26:02Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-04-23 15:26:02Z INFO ProcessInvokerWrapper] Finished process 47372 with exit code 0, and elapsed time 00:00:00.3189953.
+[2025-04-23 15:26:02Z INFO SelfUpdater] Externals content hash: 433a6d748742d12abd20dc2a79b62ac3d9718ae47ef26f8e84dc8c180eea3659
+[2025-04-23 15:26:02Z INFO SelfUpdater] Still waiting for 1 tasks to complete.
+[2025-04-23 15:26:02Z INFO SelfUpdater] Waiting for 1 tasks to complete.
+[2025-04-23 15:26:02Z INFO SelfUpdater] Dotnet runtime clone finished.
+[2025-04-23 15:26:02Z INFO SelfUpdater] Calculating hash for C:\Users\user\cursor\project\portfolio\actions-runner\_work\__dotnet_runtime__
+[2025-04-23 15:26:02Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:26:02Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:26:02Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:26:02Z INFO HostContext] Well known directory 'Externals': 'C:\Users\user\cursor\project\portfolio\actions-runner\externals'
+[2025-04-23 15:26:02Z INFO ProcessInvokerWrapper] Starting process:
+[2025-04-23 15:26:02Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\user\cursor\project\portfolio\actions-runner\externals\node16\bin\node.exe'
+[2025-04-23 15:26:02Z INFO ProcessInvokerWrapper]   Arguments: '"C:\Users\user\cursor\project\portfolio\actions-runner\bin\hashFiles"'
+[2025-04-23 15:26:02Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\user\cursor\project\portfolio\actions-runner\_work\__dotnet_runtime__'
+[2025-04-23 15:26:02Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-04-23 15:26:02Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-04-23 15:26:02Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-04-23 15:26:02Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-04-23 15:26:02Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-04-23 15:26:02Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-04-23 15:26:02Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2025-04-23 15:26:02Z INFO ProcessInvokerWrapper] Process started with process id 55096, waiting for process exit.
+[2025-04-23 15:26:03Z INFO Terminal] WRITE LINE: Downloading 2.323.0 runner
+[2025-04-23 15:26:03Z INFO SelfUpdater] Hash result: 'eaa939c45307f46b7003902255b3a2a09287215d710984107667e03ac493eb26'
+[2025-04-23 15:26:03Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-04-23 15:26:03Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-04-23 15:26:03Z INFO ProcessInvokerWrapper] Finished process 55096 with exit code 0, and elapsed time 00:00:00.3452995.
+[2025-04-23 15:26:03Z INFO SelfUpdater] Runtime content hash: eaa939c45307f46b7003902255b3a2a09287215d710984107667e03ac493eb26
+[2025-04-23 15:26:03Z INFO SelfUpdater] Still waiting for 0 tasks to complete.
+[2025-04-23 15:26:03Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:26:03Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:26:03Z INFO HostContext] Well known directory 'Work': 'C:\Users\user\cursor\project\portfolio\actions-runner\_work'
+[2025-04-23 15:26:03Z INFO SelfUpdater] Attempt 1: save latest runner into C:\Users\user\cursor\project\portfolio\actions-runner\_work\_update\runner1.zip.
+[2025-04-23 15:26:03Z INFO SelfUpdater] Download runner: begin download
+[2025-04-23 15:26:03Z INFO SelfUpdater] Downloading https://github.com/actions/runner/releases/download/v2.323.0/actions-runner-win-x64-2.323.0.zip
+[2025-04-23 15:26:06Z INFO SelfUpdater] Download runner: finished download
+[2025-04-23 15:26:06Z INFO SelfUpdater] Validated Runner Hash matches C:\Users\user\cursor\project\portfolio\actions-runner\_work\_update\runner1.zip : e8ca92e3b1b907cdcc0c94640f4c5b23f377743993a4a5c859cb74f3e6eb33ef
+[2025-04-23 15:26:07Z INFO SelfUpdater] Finished getting latest runner package at: C:\Users\user\cursor\project\portfolio\actions-runner\_work\_update.
+[2025-04-23 15:26:07Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:26:07Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:26:07Z INFO SelfUpdater] Copy C:\Users\user\cursor\project\portfolio\actions-runner\_work\_update\bin to C:\Users\user\cursor\project\portfolio\actions-runner\bin.2.323.0.
+[2025-04-23 15:26:07Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:26:07Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:26:07Z INFO SelfUpdater] Copy C:\Users\user\cursor\project\portfolio\actions-runner\_work\_update\externals to C:\Users\user\cursor\project\portfolio\actions-runner\externals.2.323.0.
+[2025-04-23 15:26:07Z INFO SelfUpdater] Copy any remaining .sh/.cmd files into runner root.
+[2025-04-23 15:26:07Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:26:07Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:26:07Z INFO SelfUpdater] Copy C:\Users\user\cursor\project\portfolio\actions-runner\_work\_update\config.cmd to C:\Users\user\cursor\project\portfolio\actions-runner\config.cmd
+[2025-04-23 15:26:07Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:26:07Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:26:07Z INFO SelfUpdater] Copy C:\Users\user\cursor\project\portfolio\actions-runner\_work\_update\run-helper.cmd.template to C:\Users\user\cursor\project\portfolio\actions-runner\run-helper.cmd.template
+[2025-04-23 15:26:07Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:26:07Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:26:07Z INFO SelfUpdater] Copy C:\Users\user\cursor\project\portfolio\actions-runner\_work\_update\run-helper.sh.template to C:\Users\user\cursor\project\portfolio\actions-runner\run-helper.sh.template
+[2025-04-23 15:26:07Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:26:07Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:26:07Z INFO SelfUpdater] Copy C:\Users\user\cursor\project\portfolio\actions-runner\_work\_update\run.cmd to C:\Users\user\cursor\project\portfolio\actions-runner\run.cmd
+[2025-04-23 15:26:07Z INFO SelfUpdater] Download latest runner and unzip into runner root.
+[2025-04-23 15:26:07Z INFO Terminal] WRITE LINE: Waiting for current job finish running.
+[2025-04-23 15:26:07Z INFO SelfUpdater] DownloadUrl: https://github.com/actions/runner/releases/download/v2.323.0/actions-runner-win-x64-2.323.0.zip
+[2025-04-23 15:26:07Z INFO SelfUpdater] RuntimeTrimmed: False
+[2025-04-23 15:26:07Z INFO SelfUpdater] ExternalsTrimmed: False
+[2025-04-23 15:26:07Z INFO SelfUpdater] PackageDownloadTime: 3377ms
+[2025-04-23 15:26:07Z INFO SelfUpdater] Attempts: 1
+[2025-04-23 15:26:07Z INFO SelfUpdater] PackageSize: 60MB
+[2025-04-23 15:26:07Z INFO SelfUpdater] ValidateHashTime: 107ms
+[2025-04-23 15:26:07Z INFO SelfUpdater] PackageExtractTime: 912ms
+[2025-04-23 15:26:07Z INFO SelfUpdater] CopyRunnerToRootTime: 176ms
+[2025-04-23 15:26:08Z INFO SelfUpdater] All running job has exited.
+[2025-04-23 15:26:08Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:26:08Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:26:08Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:26:08Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:26:08Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:26:08Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:26:08Z INFO SelfUpdater] Delete old version runner backup.
+[2025-04-23 15:26:08Z INFO Terminal] WRITE LINE: Generate and execute update script.
+[2025-04-23 15:26:08Z INFO SelfUpdater] DeleteRunnerBackupTime: 5ms
+[2025-04-23 15:26:08Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:26:08Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:26:08Z INFO HostContext] Well known directory 'Diag': 'C:\Users\user\cursor\project\portfolio\actions-runner\_diag'
+[2025-04-23 15:26:08Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:26:08Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:26:08Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\cursor\project\portfolio\actions-runner\bin'
+[2025-04-23 15:26:08Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\cursor\project\portfolio\actions-runner'
+[2025-04-23 15:26:08Z INFO HostContext] Well known directory 'Work': 'C:\Users\user\cursor\project\portfolio\actions-runner\_work'
+[2025-04-23 15:26:08Z INFO SelfUpdater] Generate update script into: C:\Users\user\cursor\project\portfolio\actions-runner\_work\_update.cmd
+[2025-04-23 15:26:08Z INFO SelfUpdater] Which: 'cmd.exe'
+[2025-04-23 15:26:08Z INFO SelfUpdater] Location: 'C:\WINDOWS\system32\cmd.exe'
+[2025-04-23 15:26:08Z INFO SelfUpdater] Update script start running
+[2025-04-23 15:26:08Z INFO Terminal] WRITE LINE: Runner will exit shortly for update, should be back online within 10 seconds.
+[2025-04-23 15:26:08Z INFO SelfUpdater] TotalUpdateTime: 6095ms
+[2025-04-23 15:26:08Z INFO Terminal] WRITE LINE: Runner update process finished.
+[2025-04-23 15:26:08Z INFO Runner] Auto update task finished at backend, an runner update is ready to apply exit the current runner instance.
+[2025-04-23 15:26:08Z INFO Runner] Stop message queue looping.
+[2025-04-23 15:26:08Z WARN GitHubActionsService] GET request to https://pipelinesghubeus23.actions.githubusercontent.com/rUTrIAf8GJn0BbwN01OEWlGhHRbahdFynYwXgbAUbvM0Fnt9gK/_apis/distributedtask/pools/1/messages?sessionId=9646e980-c842-4933-b16c-a6c3e5c77095&lastMessageId=1&status=Online&runnerVersion=2.311.0&os=Windows&architecture=X64 has been cancelled.
+[2025-04-23 15:26:08Z INFO MessageListener] Get next message has been cancelled.
+[2025-04-23 15:26:08Z INFO Runner] Ignore any exception after cancel message loop. System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: 스레드 종료 또는 응용 프로그램 요청 때문에 I/O 작업이 취소되었습니다..
+ ---> System.Net.Sockets.SocketException (995): 스레드 종료 또는 응용 프로그램 요청 때문에 I/O 작업이 취소되었습니다.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.GetNextMessageAsync(CancellationToken token)
+   at GitHub.Runner.Listener.Runner.RunAsync(RunnerSettings settings, Boolean runOnce)
+[2025-04-23 15:26:08Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2025-04-23 15:26:09Z INFO Listener] Runner execution has finished with return code 3

@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "windows-runner",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus23.actions.githubusercontent.com/rUTrIAf8GJn0BbwN01OEWlGhHRbahdFynYwXgbAUbvM0Fnt9gK/",
+  "gitHubUrl": "https://github.com/hskdan/jea",
+  "workFolder": "_work"
+}
