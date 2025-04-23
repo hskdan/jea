@@ -7,7 +7,7 @@ import Footer from './components/Footer'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: '보험설계사 홍길동 - 전문 보험 상담',
+  title: '보험설계사 배지윤 - 전문 보험 상담',
   description: '10년 이상의 경력을 바탕으로 고객님의 미래를 안전하게 지키는 맞춤형 보험 설계를 제공해드립니다.',
 }
 

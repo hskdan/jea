@@ -37,8 +37,9 @@ export default function Home() {
               animate={{ x: 0 }}
               transition={{ duration: 0.6 }}
             >
-              안녕하세요,<br />
-              <span className="text-blue-600">보험 설계사 배지윤</span>입니다
+              안녕하세요,<br /><br />
+              <span className="text-blue-600">보험 설계사 배지윤</span><br />
+              입니다
             </motion.h1>
             <motion.p 
               className="text-lg text-gray-600 mb-8"
