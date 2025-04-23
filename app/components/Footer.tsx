@@ -55,7 +55,7 @@ const Footer = () => {
             <div className="space-y-3">
               <p className="text-gray-400 flex items-center space-x-3">
                 <FaPhoneAlt className="text-blue-500" />
-                <span>010-1234-5678</span>
+                <span>010-3154-7720</span>
               </p>
               <p className="text-gray-400 flex items-center space-x-3">
                 <FaEnvelope className="text-blue-500" />
