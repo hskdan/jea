@@ -155,7 +155,7 @@ export default function Contact() {
             <div className="space-y-4">
               <div>
                 <h3 className="font-semibold text-gray-700">전화</h3>
-                <p className="text-gray-600">010-1234-5678</p>
+                <p className="text-gray-600">010-3154-7721</p>
               </div>
               <div>
                 <h3 className="font-semibold text-gray-700">이메일</h3>
